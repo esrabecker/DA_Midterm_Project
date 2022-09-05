@@ -7,7 +7,7 @@ Company Data Analysis - Modeling &amp; BI
 - Paul Kollhof
 
 ## Goal of the project:
-- Goal #1: use key selected production parameters to creat ML algorithm to predict target feature(s) (drop volume)
+- Goal #1: use key selected production parameters to creat ML algorithm to predict target feature(s) (drop volume) in order to minimize scrap rate throughout production process
 - Goal #2: create dashboard for customer & delivery data to visual development of delivery amounts / timeframes etc.
 
 ## Brief description of the dataset(s) (Source, Number of rows, number of features):
