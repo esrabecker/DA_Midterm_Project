@@ -1,23 +1,28 @@
-# DA_Midterm_Project
-Company Data Analysis - Modeling &amp; BI
+# DA Midterm Project - Company Data Analysis - Modeling &amp; BI
 
-The readme file should contains:
+## Members of the group:
+- Esra Becker
+- Aykut Avci
+- Paul Kollhof
 
-> Member of the group:
-Esra Becker, Aykut Avci, Paul Kollhof
+## Goal of the project:
+- Goal #1: use key selected production parameters to creat ML algorithm to predict target feature(s) (drop volume) in order to minimize scrap rate throughout production process
+- Goal #2: create dashboard for customer & delivery data to visual development of delivery amounts / timeframes etc.
 
-> Goal of the project:
+## Brief description of the dataset(s) (Source, Number of rows, number of features):
+- Data set 1 (production data):
+	- (anonymised / pseudomised) modified company data
+	- approx. 100k rows
+	- approx. 150 features / columns
 
+- Data set 2 (customer data):
+	- (anonymised / pseudomised) modified company data
+	- approx. 2.6k rows
+	- approx. 30 features / columns
 
-> Brief description of the dataset (Source, Number of rows, number of features):
-
-
-> Brief description of the dataset(s):
-    
-
-> High-level Planning of the project, e.g:#
-	Day 1 - EDA, anonymze data
-        Day 2 - data cleaning (data types, dates, etc.), 
-        Day 3 - production data transformation & modeling, bashboarding customer data
-        Day 4 - polish data, create presentation
+## High-level Planning of the project, e.g:
+- Day 1 - EDA, data cleaning, anonymze data
+- Day 2 - data cleaning (data types, dates, etc.), 
+- Day 3 - production data transformation & modeling, dashboarding customer data
+- Day 4 - polish data, create presentation
 
