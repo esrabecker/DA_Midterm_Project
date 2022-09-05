@@ -13,7 +13,7 @@ Esra Becker, Aykut Avci, Paul Kollhof
 	- (anonymised / pseudomised) modified company data
 	- approx. 100k rows
 	- approx. 150 features / columns
-	- 
+
 - Data set 2 (customer data):
 	- (anonymised / pseudomised) modified company data
 	- approx. 2.6k rows
