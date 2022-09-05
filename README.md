@@ -1,5 +1,4 @@
-# DA Midterm Project
-Company Data Analysis - Modeling &amp; BI
+# DA Midterm Project - Company Data Analysis - Modeling &amp; BI
 
 ## Members of the group:
 - Esra Becker
