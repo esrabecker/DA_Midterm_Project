@@ -6,7 +6,7 @@ Company Data Analysis - Modeling &amp; BI
 - Aykut Avci
 - Paul Kollhof
 
-> Goal of the project:
+# Goal of the project:
 - Goal #1: use key selected production parameters to creat ML algorithm to predict target feature(s)
 - Goal #2: create dashboard for customer & delivery data to visual development of delivery amounts / timeframes etc.
 
